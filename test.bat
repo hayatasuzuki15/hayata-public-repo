@@ -1,4 +1,4 @@
 rem これはテスト用
-echo Hello
+echo Hello World 
 
 exit
