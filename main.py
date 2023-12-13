@@ -1,3 +1,3 @@
 import func
-print("Hello,World")
+print("UTF-8にしました")
 func()
