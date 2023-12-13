@@ -1,4 +1,4 @@
 rem これはテスト用
 echo Hello World!!!!こんにちは
-rem テキスト変更
+rem テキスト
 rem 変更
