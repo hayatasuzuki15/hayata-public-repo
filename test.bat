@@ -3,3 +3,4 @@ echo Hello World!!!!こんにちは
 dir > file_no.txt
 echo testtest変えた
 exit
+rem テキスト追加
