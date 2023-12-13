@@ -1,4 +1,4 @@
 def func():
     if True:
-        print("a")
+        print("変更")
     return "変更"
