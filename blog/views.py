@@ -5,6 +5,7 @@ from .models import BlogModel
 
 class Menu(TemplateView):
     template_name = "menu.html"
+    print("追加")
 
 class BlogList(ListView):
     template_name = "list.html"
