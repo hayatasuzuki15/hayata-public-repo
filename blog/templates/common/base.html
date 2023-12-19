@@ -1,0 +1,22 @@
+{% load static %}
+{% load django_bootstrap5 %}
+
+
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    {% bootstrap_css %}
+    {% bootstrap_javascript %}
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    {% block title %}
+    {% endblock title %}
+    
+</head>
+<body>
+{% include "common/header.html" %}
+{% block content %}
+{% endblock content %}
+{% include "common/footer.html" %}
+</body>
+</html>
